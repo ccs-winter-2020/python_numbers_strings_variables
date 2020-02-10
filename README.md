@@ -208,4 +208,4 @@ The `join()` method is the opposite of `split()`. It collapses a list of strings
 
 ## More string methods
 
-(String Methods)[https://docs.python.org/3/library/stdtypes.html#string-methods]
+[String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
